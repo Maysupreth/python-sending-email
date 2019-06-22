@@ -1,1 +1,1 @@
-# python-sending-email
+# python-sending-email (basic)
